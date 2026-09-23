@@ -60,9 +60,8 @@ The trained model file is also not included because of GitHub's individual file 
 ## Project Structure
 
 ```text
-├── ModelGeneration/
-│   └── Model_Generation.ipynb
-├── WebApp/
-│   └── app.py
-└── Requirements
+├── Model_Generation.ipynb
+├── app.py
+├── Requirements.txt
+└── README.md
 
